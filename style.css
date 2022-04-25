@@ -1,6 +1,12 @@
 .div2{
     background-color: #FFCC33;
+    height: 300;
 }
 .div1{
     background-color: beige;
+    height: 420;
+}
+.div3{
+    background-color: beige;
+    height: 120;
 }
