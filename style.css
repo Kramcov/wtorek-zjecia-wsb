@@ -10,3 +10,9 @@
     background-color: beige;
     height: 120;
 }
+p{
+    font-family: Courier New, monospace;
+}
+body{
+    background-color: gray;
+}
